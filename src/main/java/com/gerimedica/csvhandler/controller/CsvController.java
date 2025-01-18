@@ -1,6 +1,5 @@
 package com.gerimedica.csvhandler.controller;
 
-
 import com.gerimedica.csvhandler.model.CsvRecord;
 import com.gerimedica.csvhandler.service.CsvService;
 import org.springframework.http.ResponseEntity;

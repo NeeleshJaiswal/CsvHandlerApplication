@@ -2,7 +2,6 @@ package com.gerimedica.csvhandler.service;
 
 import com.gerimedica.csvhandler.model.CsvRecord;
 import com.gerimedica.csvhandler.repository.CsvRecordRepository;
-import lombok.extern.java.Log;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVRecord;

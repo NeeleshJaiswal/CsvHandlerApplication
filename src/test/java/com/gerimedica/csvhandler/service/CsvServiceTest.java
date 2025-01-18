@@ -1,6 +1,5 @@
 package com.gerimedica.csvhandler.service;
 
-import com.gerimedica.csvhandler.model.CsvRecord;
 import com.gerimedica.csvhandler.repository.CsvRecordRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
